@@ -1,11 +1,11 @@
-<Oi!/>, eu sou o João Pedro!
+Oi, eu sou o João Pedro!
 
 - 🌱 Estudando Java, Javascript, HTML e CSS
 
 <div align="center">
   <a href="https://github.com/JoaoSouza04">
   <img height="180em" width="50%" margin="10px" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" arc "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04v&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)"/>
+  <img height="180em" width="40%" arc "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)"/>
 </div>
 
 <div style="display: inline_block"><br>
