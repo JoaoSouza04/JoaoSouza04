@@ -5,7 +5,7 @@ Oi, eu sou o João Pedro!
 <div>
   <a href="https://github.com/JoaoSouza04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="assets/giphy.gif">
+  <img src="src/assets/giphy.gif">
 </div>
   
   
