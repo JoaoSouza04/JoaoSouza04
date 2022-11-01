@@ -3,8 +3,9 @@ Oi, eu sou o João Pedro!
 - 🌱 Estudando Java, Javascript, HTML e CSS
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&theme=graywhite&hide_border=true" width="313" />
+  <a href="https://github.com/JoaoSouza04">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
