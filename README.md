@@ -4,8 +4,7 @@ Oi, eu sou o João Pedro!
 
 <div align="center">
   <a href="https://github.com/JoaoSouza04">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&show_icons=true&theme=radical&layout=compact"/>
+  <img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
