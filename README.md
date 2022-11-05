@@ -1,4 +1,4 @@
-Oi, eu sou o João Pedro!
+</Oi>, eu sou o João Pedro!
 
 - 🌱 Estudando Java, Javascript, HTML e CSS
 
