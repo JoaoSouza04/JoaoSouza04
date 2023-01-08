@@ -1,6 +1,6 @@
-Oii, eu sou o João Pedro!
+Ooi, eu sou o João Pedro!
 
-- 🌱 Estudando Java, Javascript, HTML e CSS
+- 🌱 Estudando Javascript, Node.js, HTML e CSS
 
 <div>
   <a href="https://github.com/JoaoSouza04">
