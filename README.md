@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Focus on my personal growth!<br>🌱 I’m currently learning Node js, JavaScript, HTML and CSS<br>💬 Ask me about Games, Movies and Series, i'll be very glad to chat with you!<br>
+🔭 Focus on my personal growth!<br>🌱 I’m currently learning Node js, JavaScript, HTML and CSS<br>💬 Ask me about Games, Movies and Series, i'll be very happy to chat with you!<br>
 
 
 ## 🌐 Socials:
@@ -17,7 +17,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-< width="600" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoSouza04&hide=html&exclude_repo=python_vim&hide_border=true&theme=material-palenight&hide_border=false">
+<div 
+width="600" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?    username=JoaoSouza04&hide=html&exclude_repo=python_vim&hide_border=true&theme=material-palenight&hide_border=false"
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JoaoSouza04&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
