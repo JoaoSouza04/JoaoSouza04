@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souzj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3osouza004)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joaosvieira04@gmail.com)
-<script src="https://gist.github.com/JoaoSouza04/f9d635d5cc817f182dda13a210723209.js"></script>
+<a href="https://gist.github.com/JoaoSouza04/f9d635d5cc817f182dda13a210723209.js"/>
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
