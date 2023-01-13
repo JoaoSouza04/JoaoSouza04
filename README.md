@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🔭 Focus on my personal growth!<br>🌱 I’m currently learning Node js, JavaScript, HTML and CSS<br>💬 Ask me about Games, Movies and Series, i'll be very happy to chat with you!<br>
+📚 Focus on my personal growth!<br>🌱 I’m currently learning Node js, JavaScript, HTML and CSS<br>💬 Ask me about Games, Movies and Series, i'll be very happy to chat with you!<br>
 
 
 ## 🌐 Socials:
