@@ -17,8 +17,8 @@
 
 # 📊 GitHub Stats:
 
-<div display="inline-block"/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div style="display: inline-block">
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 ![top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?    username=JoaoSouza04&hide=html&exclude_repo=python_vim&hide_border=true&theme=material-palenight&hide_border=false)
 </div>
   
