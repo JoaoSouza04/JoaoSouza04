@@ -3,10 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7777&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Pedro+de+Souza;I'm+19+years+old;I+am+from+SBC,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&count_private=true&hide_border=true&title_color=ff7777&icon_color=ff7777&text_color=c9d1d9&bg_color=0d1117" alt="JoaoSouza04 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&hide_border=true&title_color=ff7777&text_color=ff7777&bg_color=0d1117" />
-</div>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)</br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoSouza04&hide=html&exclude_repo=python_vim&hide_border=true&theme=material-palenight&hide_border=false)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoSouza04&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
