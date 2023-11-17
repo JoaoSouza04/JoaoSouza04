@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff7777&text_color=c9d1d9&bg_color=0d1117" alt="JoaoSouza04 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&hide_border=true&title_color=ffffff&text_color=ff7777&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza04&show_icons=true&count_private=true&hide_border=true&title_color=ff7777&icon_color=ff7777&text_color=c9d1d9&bg_color=0d1117" alt="JoaoSouza04 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&hide_border=true&title_color=ff7777&text_color=ff7777&bg_color=0d1117" />
 </div>
 
 <p align="center">
