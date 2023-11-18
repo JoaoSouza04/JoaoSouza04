@@ -11,31 +11,41 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoSouza04&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### 🌐Social Medias:
+<div  align="center"> 
+  <div style="display: inline_block">
+    <h2 align="center">💻 Main Skills</h1>
+    <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souzj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3osouza004)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joaosvieira04@gmail.com)
 
-### 💻Main skills:
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-### 🛠️Tools:
-
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-### 🚀Studying in this moment:
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h2 align="center">🛠️ Tools</h1>
+    <img align="center" height="40" width="40" alt="vscode" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" height="40" width="40" alt="github" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" height="40" width="40" alt="git" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" height="40" width="40" alt="windows"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h2 align="center">🚀 Studying in this moment</h1>
+    <img align="center" height="40" width="40" alt="angularjs" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img align="center" height="40" width="40" alt="springboot-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </div>
+    
+<div align="center"> 
+<br>
+  <h2 align="center">🌐 Social Media</h1>
+  <a href="www.linkedin.com/in/joãosouza04" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
+  <a href="https://www.instagram.com/_souzj" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
+  <a href="mailto:joaosvieira04@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
