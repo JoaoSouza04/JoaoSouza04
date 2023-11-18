@@ -43,7 +43,7 @@
 <div align="center"> 
 <br>
   <h2 align="center">🌐 Social Media</h1>
-  <a href="www.linkedin.com/in/joãosouza04" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
+  <a href="https://linkedin.com/in/joãosouza04" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
   <a href="https://www.instagram.com/_souzj" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
   <a href="mailto:joaosvieira04@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
 </div>
