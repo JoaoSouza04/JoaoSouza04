@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800cb0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00720c&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c348f7&size=32&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+João+Pedro+de+Souza;I'm+19+years+old;I'm+from+São+Paulo+-+Brasil;I+study+Systems+Analisys+and+Development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70ff90&size=32&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+João+Pedro+de+Souza;I'm+19+years+old;I'm+from+São+Paulo+-+Brasil;I+study+Systems+Analisys+and+Development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=d682fa&icon_color=fa8ef1&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&hide_border=true&title_color=d682fa&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4bfa5d&icon_color=abffb3&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouza04&layout=compact&hide_border=true&title_color=4bfa5d&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -48,4 +48,4 @@
   <a href="mailto:joaosvieira04@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800cb0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00720c&height=120&section=footer"/>
