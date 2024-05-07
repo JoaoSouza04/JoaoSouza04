@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00720c&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70ff90&size=32&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+João+Pedro+de+Souza;I'm+19+years+old;I'm+from+São+Paulo+-+Brasil;I+study+Systems+Analisys+and+Development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70ff90&size=32&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+João+Pedro+de+Souza;I'm+20+years+old;I'm+from+São+Paulo+-+Brasil;I+study+Systems+Analisys+and+Development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoSouza04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4bfa5d&icon_color=abffb3&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Souza github stats" /> 
@@ -32,18 +32,16 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h2 align="center">🚀 Studying in this moment</h1>
-    <img align="center" height="40" width="40" alt="angularjs" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center" height="40" width="40" alt="springboot-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" height="40" width="40" alt="reactjs" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" height="40" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
     
 <div align="center"> 
 <br>
   <h2 align="center">🌐 Social Media</h1>
-  <a href="https://linkedin.com/in/joãosouza04" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
+  <a href="https://linkedin.com/in/joãosouza04" target="_blank"><img align="center" height="40" width="40" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   <a href="https://www.instagram.com/_souzj" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
   <a href="mailto:joaosvieira04@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
 </div>
